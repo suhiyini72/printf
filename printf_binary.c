@@ -3,11 +3,11 @@
 /**
  * printf_binary - prints a binary number
  * @num: number arguements
- * @printed: the printed characters
+ * @print: printed characters
  * Return: printed charcaters
  */
 
-int printf_binary(unsigned int num, int printed)
+int printf_binary(unsigned int num, int print)
 {
 	int binary[32] = {0};
 	int i = 0;
@@ -15,8 +15,8 @@ int printf_binary(unsigned int num, int printed)
 	if (num == 0)
 	{
 		_putchar('0');
-		printed++;
-		return (printed);
+		print++;
+		return (print);
 	}
 
 	while (num > 0)
@@ -30,7 +30,7 @@ int printf_binary(unsigned int num, int printed)
 	{
 		i--;
 		_putchar('0' + binary[i]);
-		printed++;
+		print++;
 	}
 
 	return (printed);
