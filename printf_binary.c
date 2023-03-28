@@ -33,5 +33,5 @@ int printf_binary(unsigned int num, int print)
 		print++;
 	}
 
-	return (printed);
+	return (print);
 }
