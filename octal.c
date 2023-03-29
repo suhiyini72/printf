@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * printf_octal - prints a binary number
- * @num: arguements
- * @print: the printed characters
- * Return: printed charcaters
+ * printf_octal - This is the function that prints a binary number 
+ * @num: arguements for the function 
+ * @print: the characters to be printed 
+ * Return: printed charcaters to be returned
  */
 
 int printf_octal(unsigned int num, int print)
