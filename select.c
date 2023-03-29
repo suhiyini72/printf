@@ -40,6 +40,12 @@ int selector(const char *format, va_list args, int print)
 		case 'o':
 			print = printf_octal(va_arg(args, unsigned int), print);
 			break;
+		case 'p':
+			print = printf_pointer(args, print);
+			break;
+		case 'r':
+			print = printf_reverse(args, print);
+			break;
 		default:
 			break;
 	}
