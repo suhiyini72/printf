@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * printf_integer - prints integer
+ * printf_integer - This the function to prints integer
  * @args: number arguements
  * @print: the printed characters
- * Return: printed charcaters
+ * Return: printed charcaters to be returned
  */
 
 int printf_integer(va_list args, int print)
