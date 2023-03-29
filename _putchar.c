@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _putchar - prints/writes character
+ * _putchar - This prints/writes character
  * @character: The character to printed
  * Return: 1, success, -1 error
  */
