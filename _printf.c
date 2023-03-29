@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _printf - implementation of printf
+ * _printf - This implementation is about printf fucntion
  * @format: the format specifier
  * Return: the formated string
  */
