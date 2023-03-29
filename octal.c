@@ -3,7 +3,7 @@
 /**
  * printf_octal - This is the function that prints a binary number 
  * @num: arguements for the function 
- * @print: the characters to be printed 
+ * @print: the characters to be printed on this function 
  * Return: printed charcaters to be returned
  */
 
