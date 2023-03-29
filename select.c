@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * selector - selects the appropriate specifiers
+ * selector - This selects the appropriate specifiers
  * @args: number of arguements
  * @print: the printed characters
- * @format: the format specifier
+ * @format: the format specifier of the function
  * Return: printed charcaters
  */
 
