@@ -18,5 +18,4 @@ int printf_octal(unsigned int num, int print);
 int printf_unsigned(unsigned int num, int print);
 int printf_reverse(va_list args, int print);
 int printf_pointer(va_list args, int print);
-
 #endif
