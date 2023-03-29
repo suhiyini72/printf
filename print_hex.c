@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _x - prints a binary number
+ * _x - The function to print a binary number
  * @num: arguements
  * @print: the printed characters
  * @uppercase: the uppercase equivalent
