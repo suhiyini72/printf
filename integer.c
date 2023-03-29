@@ -3,7 +3,7 @@
 /**
  * printf_integer - This the function to prints integer
  * @args: number arguements
- * @print: the printed characters
+ * @print: the printed characters on this project
  * Return: printed charcaters to be returned
  */
 
