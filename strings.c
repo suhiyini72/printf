@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * printf_string - prints string
+ * printf_string - This is the function that prints string
  * @args: arguements
  * @print: the printed characters
- * Return: printed charcaters
+ * Return: printed charcaters to be returned
  */
 
 int printf_string(va_list args, int print)
