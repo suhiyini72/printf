@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
- * printf_unsigned - prints a binary number
+ * printf_unsigned - This is the function to print a binary number
  * @num: number of arguements
  * @print: the printed characters
- * Return: printed charcaters
+ * Return: The returned printed charcaters 
  */
 
 int printf_unsigned(unsigned int num, int print)
