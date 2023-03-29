@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * printf_reverse - prints a binary number
+ * printf_reverse - This prints a binary number
  * @args: arguements
- * @print: the printed characters
+ * @print: the printed characters to be printed
  * Return: printed charcaters
  */
 
